@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Proyectil
+comment0.text=\r\n\r\n\ @author\ Anderson\ Camacho\r\n\ @email\:\ camachosinh@gmail.com\r\n\ @version\ general\ 1.5\r\n
+comment1.params=world
+comment1.target=void\ addedToWorld(greenfoot.World)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ movimientoProyectil()
+comment4.params=
+comment4.target=void\ quitarDelMundo()
+numComments=5
